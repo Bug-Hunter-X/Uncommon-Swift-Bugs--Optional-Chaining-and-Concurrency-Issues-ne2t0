@@ -1,0 +1,1 @@
+This repository demonstrates a couple of uncommon bugs that can occur in Swift code.  The first example showcases the pitfalls of optional chaining and unwrapping, while the second illustrates a potential race condition in a concurrent context.  Solutions for each bug are also provided.
